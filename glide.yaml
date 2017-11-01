@@ -1,6 +1,7 @@
 package: github.com/intelsdi-x/snap-plugin-collector-users
 import:
 - package: github.com/intelsdi-x/snap
+  version: ^2.0.0  
   subpackages:
   - control/plugin
   - control/plugin/cpolicy
